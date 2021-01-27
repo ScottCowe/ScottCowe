@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi, I'm MisterCow1.
 
-<!--
-**MisterCow1/MisterCow1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm currently working on:
+* Matrix Client - An utility mod for Minecraft, currently private, may become public in the future
+* Selenium - A event system written for Java 8, used in Matrix Client
+* mistercow1.dev - A website that may or may not ever go online
 
-Here are some ideas to get you started:
+## I am currently learning:
+* Java - Java is my main language, I have a few years of experience with it.
+* React.js - For website frontend, because I just found website development is very fun
+* Express.js - For website backend, because web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me:
+You can reach me [here](https://www.youtube.com/watch?v=DLzxrzFCyOs)
