@@ -5,10 +5,11 @@
 * Selenium - A event system written for Java 8, used in Matrix Client
 * mistercow1.dev - A website that may or may not ever go online
 
-## I am currently learning:
-* Java - Java is my main language, I have a few years of experience with it.
-* React.js - For website frontend, because I just found website development is very fun
-* Express.js - For website backend, because web development
+![java](https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java&logoColor=white)
+![javascript](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## How to reach me:
 You can reach me [here](https://www.youtube.com/watch?v=DLzxrzFCyOs)
+
+![MisterCow1's github stats](https://github-readme-stats.vercel.app/api?username=MisterCow1)
+![MisterCow1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterCow1)
