@@ -2,6 +2,7 @@
 
 ![java](https://img.shields.io/badge/-java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![javascript](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![react](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 ## I'm currently working on:
 * Matrix Client - An utility mod for Minecraft, currently private, may become public in the future
