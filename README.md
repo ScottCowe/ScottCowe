@@ -15,5 +15,5 @@
 You can reach me [here](https://www.youtube.com/watch?v=DLzxrzFCyOs)
 
 ## Stats
-![MisterCow1's github stats](https://github-readme-stats.vercel.app/api?username=MisterCow1) \
-![MisterCow1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterCow1)
+![MisterCow1's github stats](https://github-readme-stats.vercel.app/api?username=MisterCow1&theme=dark) \
+![MisterCow1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterCow1&theme=dark)
