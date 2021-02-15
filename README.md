@@ -16,4 +16,4 @@ You can reach me [here](https://www.youtube.com/watch?v=DLzxrzFCyOs)
 
 ## Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=MisterCow1&theme=dark) \
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterCow1&theme=dark)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterCow1)
