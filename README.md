@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/-ExpressJs-000000?logo=express&logoColor=white&style=for-the-badge)
 
 ## I'm currently working on:
-* Matrix Client - An utility mod for Minecraft, currently private, may become public in the future
+* NeoHack - An utility mod for Minecraft, currently private, may become public in the future
 * Sobyity - A event system written for Minecraft Clients, used in Matrix Client
 * mistercow1.dev - A website that may or may not ever go online
 
