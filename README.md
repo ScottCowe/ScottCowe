@@ -12,7 +12,7 @@
 * mistercow1.dev - A website that may or may not ever go online
 
 ## How to reach me:
-You can reach me [here](https://www.youtube.com/watch?v=DLzxrzFCyOs)
+You can reach me [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=MisterCow1&theme=dark) \
