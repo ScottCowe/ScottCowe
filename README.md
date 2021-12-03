@@ -8,7 +8,7 @@
 
 ## I'm currently working on:
 * NeoHack - An utility mod for Minecraft, currently private, may become public in the future
-* Sobyity - A event system written for Minecraft Clients, used in NeoHack
+* Sobyity - An event system written for Minecraft Clients, used in NeoHack
 * mistercow1.dev - A website that may or may not ever go online
 
 ## How to reach me:
