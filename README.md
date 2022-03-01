@@ -13,6 +13,9 @@
 ## How to reach me:
 You can reach me [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+## Send me money
+Bitcoin: bc1qvh86emu9x9utunh36a29cpm0mely3csah34lve
+
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=MisterCow1&theme=dark) \
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterCow1&theme=dark)
