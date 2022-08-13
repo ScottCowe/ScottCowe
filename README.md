@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 ## I'm currently working on:
-* Sobyity - An event system written for Minecraft Clients, used in NeoHack
+* Sobyity - An event system written for Minecraft Clients
 * mistercow1.dev - A website that may or may not ever go online
 
 ## How to reach me:
