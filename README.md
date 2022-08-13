@@ -6,7 +6,6 @@
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
 ## I'm currently working on:
-* NeoHack - An utility mod for Minecraft, currently private, may become public in the future
 * Sobyity - An event system written for Minecraft Clients, used in NeoHack
 * mistercow1.dev - A website that may or may not ever go online
 
